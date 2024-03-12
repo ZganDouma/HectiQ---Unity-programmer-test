@@ -6925,7 +6925,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _treasureRadius: 10
-  _avoidanceRadius: 4
+  _avoidanceRadius: 2.5
 --- !u!114 &872150122
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6938,7 +6938,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f926453436a1a094e9701c4f8c012955, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _avoidanceRadius: 4
+  _avoidanceRadius: 2.5
 --- !u!114 &872150123
 MonoBehaviour:
   m_ObjectHideFlags: 0

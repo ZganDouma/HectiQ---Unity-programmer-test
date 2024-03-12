@@ -16,5 +16,5 @@ MonoBehaviour:
   RocksSpawnFasterOverTime: 0
   BlockersActive: 1
   CollectiblesActive: 1
-  ShieldActive: 1
-  CollectActive: 1
+  ShieldActive: 0
+  CollectActive: 0

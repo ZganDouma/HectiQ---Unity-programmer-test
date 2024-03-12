@@ -27,3 +27,8 @@ The project includes a flexible configuration system that allows enabling or dis
 
 - Enabling/Disabling treasure collection, allowing the AI to focus on dodging or using shields.
 - Enabling/Disabling the shield system, offering variety in the protection strategies available to the AI.
+- ShieldSearchRadius : Search radius for a blocker usable as a shield
+- AvoidanceRadius : The avoid radius
+- _treasureRadius: Treasure Radius
+
+
